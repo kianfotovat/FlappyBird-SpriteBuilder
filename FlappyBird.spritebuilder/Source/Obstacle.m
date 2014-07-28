@@ -33,7 +33,7 @@ static const CGFloat maximumYPosition = 380.f;
   //CGFloat random = ((double)arc4random() / ARC4RANDOM_MAX);
   //CGFloat range = maximumYPosition - minimumYPosition;
   //self.position = ccp(self.position.x, minimumYPosition + (random * range));
-    self.position = ccp(self.position.x, 380.f);
+    self.position = ccp(self.position.x, 200.f);
 }
 
 @end
